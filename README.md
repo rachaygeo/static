@@ -1,0 +1,2 @@
+# static
+Test GitHub Pages
